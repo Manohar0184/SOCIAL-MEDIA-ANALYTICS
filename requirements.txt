@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+networkx>=3.2
+psycopg2-binary>=2.9
+python-dotenv>=1.0
+scikit-learn>=1.4
+transformers>=4.40   # optional: real sentiment model in a later stage
